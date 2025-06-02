@@ -1,4 +1,4 @@
-# Hi there, I'm KB初岚! 👋
+# Hi there, I'm KBchulan! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;C%2B%2B+%7C+Go+%7C+Rust+%7C+JavaScript;Always+learning+new+technologies" alt="Typing SVG" />
